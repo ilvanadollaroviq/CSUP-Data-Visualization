@@ -16,5 +16,5 @@ This project displays chart views which contain  Air, Wind and Rainfall informat
 -HTML\
 -CSS\
 -Javascript (CanvasJS and JQuery)\
--PHP\
+-PHP
 
