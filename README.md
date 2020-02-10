@@ -9,9 +9,12 @@ This project displays chart views which contain  Air, Wind and Rainfall informat
 ### Logical View
 ![](images/Untitled%20Diagram.png)
 
-* Place here figure that depicts logical overview of your project. (You can use draw.io).
 
 
 ### Technology Stack
 
-* Describe here technology stack you are using.
+-HTML
+-CSS
+-Javascript (CanvasJS and JQuery)
+-PHP
+
