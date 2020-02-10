@@ -13,8 +13,8 @@ This project displays chart views which contain  Air, Wind and Rainfall informat
 
 ### Technology Stack
 
--HTML
--CSS
--Javascript (CanvasJS and JQuery)
--PHP
+-HTML\
+-CSS\
+-Javascript (CanvasJS and JQuery)\
+-PHP\
 
